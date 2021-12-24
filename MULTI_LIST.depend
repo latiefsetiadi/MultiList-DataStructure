@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1577944173 source:c:\users\windows\documents\struktur data\multi_list\main.c
+	"pustaka.h"
+
+1576758505 c:\users\windows\documents\struktur data\multi_list\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
+1577944157 source:c:\users\windows\documents\struktur data\multi_list\pustaka.c
+	"pustaka.h"
+
+1639544587 source:e:\semester 3\struktur data\multi_list\main.c
+	"pustaka.h"
+
+1576758505 e:\semester 3\struktur data\multi_list\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctype.h>
+
+1578386845 source:e:\semester 3\struktur data\multi_list\pustaka.c
+	"pustaka.h"
+
